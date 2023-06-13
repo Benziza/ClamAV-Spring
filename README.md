@@ -58,3 +58,7 @@ Run the following command to update the ClamAV database.
   Service name: ClamAV ClamD
 
 ## 2-Virus Scanning in Java using ClamAV
+
+To test the virus-infected file upload scenario, you can download the virus test file (eicar.com.txt) from the below website.
+
+https://www.eicar.org/download-anti-malware-testfile/
